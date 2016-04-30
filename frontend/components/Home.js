@@ -2,7 +2,7 @@ import React from 'react';
 
 class Home extends React.Component {
   render() {
-    return <div>Yep. Works.</div>
+    return <div>If you're seeing this, everything is working.</div>
   }
 }
 
