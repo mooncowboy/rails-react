@@ -1,0 +1,32 @@
+{
+  "name": "rails-react",
+  "version": "1.0.0",
+  "description": "A simple way to get React up and running with Rails.",
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-core": "^6.7.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "react-dom": "^0.14.7",
+    "react": "^0.14.7",
+    "webpack": "^1.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theplastictoy/rails-react.git"
+  },
+  "author": "theplastictoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theplastictoy/rails-react/issues"
+  },
+  "homepage": "https://github.com/theplastictoy/rails-react#readme"
+}
